@@ -2,6 +2,7 @@ package com.spring.sfgpetclinic.model;
 
 public class Person {
 	
+	//Base class
 	private String firstName;
 	private String lastName;
 	
